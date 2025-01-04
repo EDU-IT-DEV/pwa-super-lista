@@ -6,7 +6,7 @@
   "display": "standalone",
   "orientation": "any",
   "scope": "/",
-  "start_url": "/",
+  "start_url": "https://edu-it-dev.github.io/pwa-super-lista/",
   "icons": [
     {
       "src": "images/icons/icon-72x72.png",
